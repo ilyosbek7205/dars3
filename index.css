@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    width: 80%;
+
+    margin: auto;
+    display: flex;
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: dodgerblue;
+    margin: auto;
+}
+.card{
+    
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+}

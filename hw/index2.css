@@ -1,0 +1,100 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar{
+  width: 100%;
+  height: 40px;
+  background: #333331;
+  display: flex;
+}
+.icons{
+  padding: 10px 40px; 
+  font-size: 20px;
+  color: rgb(6, 245, 6);
+}
+.icons i{
+  margin-left: 30px;
+}
+.collection{
+  padding: 10px;
+  display: flex;
+  list-style: none;
+  margin-left: 800px;
+  color: white;
+}
+.icons1 {
+  margin-left: 20px;
+  color: rgb(6, 255, 6);
+}
+.item{
+  margin-left: 10px;
+}
+.navbar1{
+  width: 100%;
+  height: 80px;
+  background: white;
+  display: flex;
+}
+.icons2{
+  font-size: 50px;
+  color: silver;
+  padding: 10px 40px;
+}
+.logo{
+  padding: 25px;
+}
+.btn{
+  margin-left: 450px;
+  width: 80px;
+  background: rgb(11, 250, 11);
+  border: none;
+}
+.colection{
+  display: flex;
+  list-style: none;
+  padding: 27px;
+}
+.icons3{
+  font-size: 10px;
+  padding: 4px;
+}
+.item1{
+  margin-left: 50px;
+}
+.card{
+  width: 100%;
+  height: 470px;
+  background: url(./5287647063057744385_121.jpg)no-repeat center/cover;
+}
+.title{
+  color: rgb(19, 255, 19);
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 300px;
+  padding-top: 300px;
+}
+.titlel{
+  color: white;
+  padding-left: 300px;
+  padding-top: 15px;
+  font-size: 20px;
+}
+.footer{
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  padding-top: 30px;
+}
+.yo{
+  width: 60%;
+  margin: auto;
+  padding-top: 10px;
+}

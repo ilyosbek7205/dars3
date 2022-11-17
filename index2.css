@@ -1,0 +1,27 @@
+*{
+    margin:0 ;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h1{
+    color: red;
+}
+h2{
+    color: dodgerblue;
+}
+h3{
+    color: aqua;
+}
+h4{
+    color: green;
+}
+h5{
+    color: blueviolet;
+}   
+h6{
+    color: gold;
+}
+body{
+    background: linear-gradient(red, yellow, blue, green);
+}
